@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Liam Wright</title>
-    <link>https://ljwright.github.io/authors/</link>
-      <atom:link href="https://ljwright.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>©2019</copyright><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ljwright.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://ljwright.github.io/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://ljwright.github.io/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://ljwright.github.io/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a PhD student at the Department for Epidemiology and Public Health, University College London. My research focuses on the links between youth unemployment and later life wellbeing. This is my personal website. I use it to share interesting things and to learn more about Git, Github, and coding in general.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>David Paton</title>
-      <link>https://ljwright.github.io/authors/david-paton/</link>
+      <link>/authors/david-paton/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://ljwright.github.io/authors/david-paton/</guid>
+      <guid>/authors/david-paton/</guid>
       <description></description>
     </item>
     

@@ -3,81 +3,91 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ljwright.github.io/authors/admin/</loc>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ljwright.github.io/publication_types/2/</loc>
+    <loc>/publication_types/2/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.github.io/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.github.io/authors/david-paton/</loc>
+    <loc>/authors/david-paton/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.github.io/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.github.io/publication_types/</loc>
+    <loc>/publication/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.github.io/publication/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ljwright.github.io/tags/</loc>
+    <loc>/tags/teen-pregnancy/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.github.io/tags/teen-pregnancy/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ljwright.github.io/publication/jhe_2017/</loc>
+    <loc>/publication/jhe_2017/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ljwright.github.io/post/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>https://ljwright.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.github.io/courses/</loc>
+    <loc>/courses/</loc>
   </url>
   
   <url>
-    <loc>https://ljwright.github.io/presentation/</loc>
+    <loc>/presentation/</loc>
   </url>
   
   <url>
-    <loc>https://ljwright.github.io/talk/</loc>
+    <loc>/talk/</loc>
   </url>
   
 </urlset>
