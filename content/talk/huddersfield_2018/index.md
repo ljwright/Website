@@ -6,7 +6,7 @@ authors:
 date: "2018-07-25T17:00:00Z"
 date_end: "2018-07-25T18:00:00Z"
 event: "Centre for Applied Childhood, Youth and Family Studies Seminar"
-event_url: "files/unihud_2018.pptx"
+event_url: 
 featured: false
 location: University of Huddersfield, United Kingdom
 math: true

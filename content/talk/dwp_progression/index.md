@@ -6,7 +6,7 @@ authors:
 date: "2019-07-25T11:00:00Z"
 date_end: "2019-07-25T11:20:00Z"
 event: "DWP ALIS Meeting"
-event_url: "files/dwp_progression.html"
+event_url: 
 featured: false
 location: London, United Kingdom
 math: true

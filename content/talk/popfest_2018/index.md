@@ -6,9 +6,9 @@ authors:
 date: "2018-06-20T11:00:00Z"
 date_end: "2018-06-20T11:20:00Z"
 event: "Popfest Oxford"
-event_url: "files/popfest_2018.pptx"
+event_url:
 featured: false
-location: Nuffield College, University of Oxford, United Kingdom
+location: University of Oxford, United Kingdom
 math: true
 projects:
 publishDate: "2018-06-20T11:00:00Z"
