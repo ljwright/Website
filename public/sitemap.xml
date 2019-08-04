@@ -3,185 +3,195 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ljwright.netlify.com/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
     <lastmod>2019-07-25T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/authors/</loc>
-    <lastmod>2019-07-25T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ljwright.netlify.com/talk/dwp_progression/</loc>
-    <lastmod>2019-07-25T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ljwright.netlify.com/</loc>
+    <loc>/authors/</loc>
     <lastmod>2019-07-25T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/talk/</loc>
+    <loc>/talk/dwp_progression/</loc>
     <lastmod>2019-07-25T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/tags/progression/</loc>
-    <lastmod>2019-07-25T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ljwright.netlify.com/tags/sequence-analysis/</loc>
+    <loc>/</loc>
     <lastmod>2019-07-25T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/tags/</loc>
+    <loc>/talk/</loc>
+    <lastmod>2019-07-25T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/progression/</loc>
     <lastmod>2019-07-25T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/talk/dwp_sequence_analysis/</loc>
+    <loc>/tags/sequence-analysis/</loc>
+    <lastmod>2019-07-25T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-07-25T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/dwp_sequence_analysis/</loc>
     <lastmod>2019-06-25T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/tags/apis/</loc>
-    <lastmod>2019-06-25T12:00:00+00:00</lastmod>
+    <loc>/tags/apis/</loc>
+    <lastmod>2019-06-14T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/tags/r-markdown/</loc>
-    <lastmod>2019-06-25T12:00:00+00:00</lastmod>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2019-06-14T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/tags/reproducibility/</loc>
-    <lastmod>2019-06-25T12:00:00+00:00</lastmod>
+    <loc>/tags/reproducibility/</loc>
+    <lastmod>2019-06-14T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/talk/dwp_rmarkdown/</loc>
-    <lastmod>2019-06-25T12:00:00+00:00</lastmod>
+    <loc>/talk/dwp_rmarkdown/</loc>
+    <lastmod>2019-06-14T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/talk/dwp_causal_dags/</loc>
+    <loc>/talk/dwp_causal_dags/</loc>
     <lastmod>2019-05-14T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/tags/causal-inference/</loc>
+    <loc>/tags/causal-inference/</loc>
     <lastmod>2019-05-14T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/tags/data/</loc>
+    <loc>/tags/data/</loc>
     <lastmod>2018-11-26T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/talk/ecf_datasets/</loc>
+    <loc>/talk/ecf_datasets/</loc>
     <lastmod>2018-11-26T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/authors/iehc-early-careers-forum/</loc>
+    <loc>/authors/iehc-early-careers-forum/</loc>
     <lastmod>2018-11-26T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/tags/austerity/</loc>
+    <loc>/tags/austerity/</loc>
     <lastmod>2018-07-25T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/tags/teen-pregnancy/</loc>
+    <loc>/tags/teen-pregnancy/</loc>
     <lastmod>2018-07-25T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/talk/huddersfield_2018/</loc>
+    <loc>/talk/huddersfield_2018/</loc>
     <lastmod>2018-07-25T17:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/tags/mental-health/</loc>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mental-health/</loc>
     <lastmod>2018-06-20T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/tags/phd/</loc>
+    <loc>/tags/phd/</loc>
     <lastmod>2018-06-20T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/talk/popfest_2018/</loc>
+    <loc>/talk/popfest_2018/</loc>
     <lastmod>2018-06-20T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/tags/unemployment/</loc>
+    <loc>/tags/unemployment/</loc>
     <lastmod>2018-06-20T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/publication_types/2/</loc>
+    <loc>/publication_types/2/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/authors/david-paton/</loc>
+    <loc>/authors/david-paton/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/publication/jhe_2017/</loc>
+    <loc>/publication/jhe_2017/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/post/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ljwright.netlify.com/teaching/</loc>
+    <loc>/courses/</loc>
   </url>
   
 </urlset>

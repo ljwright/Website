@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentations | Liam Wright</title>
-    <link>https://ljwright.netlify.com/talk/</link>
-      <atom:link href="https://ljwright.netlify.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentations</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>©2019</copyright><lastBuildDate>Thu, 25 Jul 2019 11:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ljwright.netlify.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Presentations</title>
-      <link>https://ljwright.netlify.com/talk/</link>
+      <link>/talk/</link>
     </image>
     
     <item>
       <title>Hours Progression in the UK</title>
-      <link>https://ljwright.netlify.com/talk/dwp_progression/</link>
+      <link>/talk/dwp_progression/</link>
       <pubDate>Thu, 25 Jul 2019 11:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/talk/dwp_progression/</guid>
+      <guid>/talk/dwp_progression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Introduction to Sequence Analysis</title>
-      <link>https://ljwright.netlify.com/talk/dwp_sequence_analysis/</link>
+      <link>/talk/dwp_sequence_analysis/</link>
       <pubDate>Tue, 25 Jun 2019 13:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/talk/dwp_sequence_analysis/</guid>
+      <guid>/talk/dwp_sequence_analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing Documents Programatically in R</title>
-      <link>https://ljwright.netlify.com/talk/dwp_rmarkdown/</link>
-      <pubDate>Tue, 25 Jun 2019 12:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/talk/dwp_rmarkdown/</guid>
+      <link>/talk/dwp_rmarkdown/</link>
+      <pubDate>Fri, 14 Jun 2019 12:00:00 +0000</pubDate>
+      <guid>/talk/dwp_rmarkdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Causal DAGs</title>
-      <link>https://ljwright.netlify.com/talk/dwp_causal_dags/</link>
+      <link>/talk/dwp_causal_dags/</link>
       <pubDate>Tue, 14 May 2019 13:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/talk/dwp_causal_dags/</guid>
+      <guid>/talk/dwp_causal_dags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Datasets: What, Where and How</title>
-      <link>https://ljwright.netlify.com/talk/ecf_datasets/</link>
+      <link>/talk/ecf_datasets/</link>
       <pubDate>Mon, 26 Nov 2018 13:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/talk/ecf_datasets/</guid>
+      <guid>/talk/ecf_datasets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effect of Spending Cuts on Teenage Pregnancy</title>
-      <link>https://ljwright.netlify.com/talk/huddersfield_2018/</link>
+      <link>/talk/huddersfield_2018/</link>
       <pubDate>Wed, 25 Jul 2018 17:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/talk/huddersfield_2018/</guid>
+      <guid>/talk/huddersfield_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Scarring Effect of Youth Unemployment on Trajectories of Mental Health and Subjective Wellbeing</title>
-      <link>https://ljwright.netlify.com/talk/popfest_2018/</link>
+      <link>/talk/popfest_2018/</link>
       <pubDate>Wed, 20 Jun 2018 11:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/talk/popfest_2018/</guid>
+      <guid>/talk/popfest_2018/</guid>
       <description></description>
     </item>
     

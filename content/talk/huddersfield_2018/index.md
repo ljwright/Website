@@ -1,5 +1,5 @@
 ---
-abstract: "Invited seminar on the impact of local authority spending cuts on teen pregnancy in England. Talk based on 2017 Journal of Health Economics paper I wrote with David Paton ((link here)[https://doi.org/10.1016/j.jhealeco.2017.05.002])."
+abstract: "Invited seminar on the impact of local authority spending cuts on teen pregnancy in England. Talk based on 2017 Journal of Health Economics paper I wrote with David Paton ([link here](https://doi.org/10.1016/j.jhealeco.2017.05.002))."
 all_day: false
 authors: 
 - admin

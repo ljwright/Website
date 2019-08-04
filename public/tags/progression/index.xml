@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Progression | Liam Wright</title>
-    <link>https://ljwright.netlify.com/tags/progression/</link>
-      <atom:link href="https://ljwright.netlify.com/tags/progression/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/progression/</link>
+      <atom:link href="/tags/progression/index.xml" rel="self" type="application/rss+xml" />
     <description>Progression</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>©2019</copyright><lastBuildDate>Thu, 25 Jul 2019 11:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ljwright.netlify.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Progression</title>
-      <link>https://ljwright.netlify.com/tags/progression/</link>
+      <link>/tags/progression/</link>
     </image>
     
     <item>
       <title>Hours Progression in the UK</title>
-      <link>https://ljwright.netlify.com/talk/dwp_progression/</link>
+      <link>/talk/dwp_progression/</link>
       <pubDate>Thu, 25 Jul 2019 11:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/talk/dwp_progression/</guid>
+      <guid>/talk/dwp_progression/</guid>
       <description></description>
     </item>
     

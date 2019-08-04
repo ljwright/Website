@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IEHC Early Careers Forum | Liam Wright</title>
-    <link>https://ljwright.netlify.com/authors/iehc-early-careers-forum/</link>
-      <atom:link href="https://ljwright.netlify.com/authors/iehc-early-careers-forum/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/iehc-early-careers-forum/</link>
+      <atom:link href="/authors/iehc-early-careers-forum/index.xml" rel="self" type="application/rss+xml" />
     <description>IEHC Early Careers Forum</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>©2019</copyright><lastBuildDate>Mon, 26 Nov 2018 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ljwright.netlify.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>IEHC Early Careers Forum</title>
-      <link>https://ljwright.netlify.com/authors/iehc-early-careers-forum/</link>
+      <link>/authors/iehc-early-careers-forum/</link>
     </image>
     
     <item>
       <title>Datasets: What, Where and How</title>
-      <link>https://ljwright.netlify.com/talk/ecf_datasets/</link>
+      <link>/talk/ecf_datasets/</link>
       <pubDate>Mon, 26 Nov 2018 13:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/talk/ecf_datasets/</guid>
+      <guid>/talk/ecf_datasets/</guid>
       <description></description>
     </item>
     

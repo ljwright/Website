@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unemployment | Liam Wright</title>
-    <link>https://ljwright.netlify.com/tags/unemployment/</link>
-      <atom:link href="https://ljwright.netlify.com/tags/unemployment/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/unemployment/</link>
+      <atom:link href="/tags/unemployment/index.xml" rel="self" type="application/rss+xml" />
     <description>Unemployment</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>©2019</copyright><lastBuildDate>Wed, 20 Jun 2018 11:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ljwright.netlify.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Unemployment</title>
-      <link>https://ljwright.netlify.com/tags/unemployment/</link>
+      <link>/tags/unemployment/</link>
     </image>
     
     <item>
       <title>The Scarring Effect of Youth Unemployment on Trajectories of Mental Health and Subjective Wellbeing</title>
-      <link>https://ljwright.netlify.com/talk/popfest_2018/</link>
+      <link>/talk/popfest_2018/</link>
       <pubDate>Wed, 20 Jun 2018 11:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/talk/popfest_2018/</guid>
+      <guid>/talk/popfest_2018/</guid>
       <description></description>
     </item>
     

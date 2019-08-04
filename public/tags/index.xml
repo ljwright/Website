@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Liam Wright</title>
-    <link>https://ljwright.netlify.com/tags/</link>
-      <atom:link href="https://ljwright.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>©2019</copyright><lastBuildDate>Thu, 25 Jul 2019 11:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ljwright.netlify.com/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Tags</title>
-      <link>https://ljwright.netlify.com/tags/</link>
+      <link>/tags/</link>
     </image>
     
     <item>
       <title>Progression</title>
-      <link>https://ljwright.netlify.com/tags/progression/</link>
+      <link>/tags/progression/</link>
       <pubDate>Thu, 25 Jul 2019 11:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/tags/progression/</guid>
+      <guid>/tags/progression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sequence Analysis</title>
-      <link>https://ljwright.netlify.com/tags/sequence-analysis/</link>
+      <link>/tags/sequence-analysis/</link>
       <pubDate>Thu, 25 Jul 2019 11:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/tags/sequence-analysis/</guid>
+      <guid>/tags/sequence-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>APIs</title>
-      <link>https://ljwright.netlify.com/tags/apis/</link>
-      <pubDate>Tue, 25 Jun 2019 12:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/tags/apis/</guid>
+      <link>/tags/apis/</link>
+      <pubDate>Fri, 14 Jun 2019 12:00:00 +0000</pubDate>
+      <guid>/tags/apis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://ljwright.netlify.com/tags/r-markdown/</link>
-      <pubDate>Tue, 25 Jun 2019 12:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/tags/r-markdown/</guid>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Fri, 14 Jun 2019 12:00:00 +0000</pubDate>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reproducibility</title>
-      <link>https://ljwright.netlify.com/tags/reproducibility/</link>
-      <pubDate>Tue, 25 Jun 2019 12:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/tags/reproducibility/</guid>
+      <link>/tags/reproducibility/</link>
+      <pubDate>Fri, 14 Jun 2019 12:00:00 +0000</pubDate>
+      <guid>/tags/reproducibility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Causal Inference</title>
-      <link>https://ljwright.netlify.com/tags/causal-inference/</link>
+      <link>/tags/causal-inference/</link>
       <pubDate>Tue, 14 May 2019 13:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/tags/causal-inference/</guid>
+      <guid>/tags/causal-inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data</title>
-      <link>https://ljwright.netlify.com/tags/data/</link>
+      <link>/tags/data/</link>
       <pubDate>Mon, 26 Nov 2018 13:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/tags/data/</guid>
+      <guid>/tags/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Austerity</title>
-      <link>https://ljwright.netlify.com/tags/austerity/</link>
+      <link>/tags/austerity/</link>
       <pubDate>Wed, 25 Jul 2018 17:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/tags/austerity/</guid>
+      <guid>/tags/austerity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teen Pregnancy</title>
-      <link>https://ljwright.netlify.com/tags/teen-pregnancy/</link>
+      <link>/tags/teen-pregnancy/</link>
       <pubDate>Wed, 25 Jul 2018 17:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/tags/teen-pregnancy/</guid>
+      <guid>/tags/teen-pregnancy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mental Health</title>
-      <link>https://ljwright.netlify.com/tags/mental-health/</link>
+      <link>/tags/mental-health/</link>
       <pubDate>Wed, 20 Jun 2018 11:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/tags/mental-health/</guid>
+      <guid>/tags/mental-health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PhD</title>
-      <link>https://ljwright.netlify.com/tags/phd/</link>
+      <link>/tags/phd/</link>
       <pubDate>Wed, 20 Jun 2018 11:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/tags/phd/</guid>
+      <guid>/tags/phd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unemployment</title>
-      <link>https://ljwright.netlify.com/tags/unemployment/</link>
+      <link>/tags/unemployment/</link>
       <pubDate>Wed, 20 Jun 2018 11:00:00 +0000</pubDate>
-      <guid>https://ljwright.netlify.com/tags/unemployment/</guid>
+      <guid>/tags/unemployment/</guid>
       <description></description>
     </item>
     
