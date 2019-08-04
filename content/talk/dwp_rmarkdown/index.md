@@ -1,5 +1,5 @@
 ---
-abstract: "In the presentation, I provide a tutorial on using R Markdown to create reproducible, dynamic documents in R. I also discuss using APIs and web scraping to download data from the internet directly into R, with a focus on the ONS API. Code to produce the slides and an accompanying document are available in the links and from [here](https://www.ljwright.rbind.io/files/dwp_rmarkdown_report.zip)."
+abstract: "In the presentation, I provide a tutorial on using R Markdown to create reproducible, dynamic documents in R. I also discuss using APIs and web scraping to download data from the internet directly into R, with a focus on the ONS API. Code to produce the slides and an accompanying document are available in the links and from [here](ljwright.rbind.io/files/dwp_rmarkdown_report.zip)."
 all_day: false
 authors: 
 - admin
