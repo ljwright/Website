@@ -3,8 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/authors/</loc>
+    <lastmod>2018-11-26T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/data/</loc>
+    <lastmod>2018-11-26T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/ecf_datasets/</loc>
+    <lastmod>2018-11-26T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/iehc-early-careers-forum/</loc>
+    <lastmod>2018-11-26T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <lastmod>2018-11-26T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2018-11-26T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-11-26T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,7 +64,7 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/tags/austerity/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -48,12 +82,6 @@
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -80,14 +108,6 @@
   
   <url>
     <loc>/teaching/</loc>
-  </url>
-  
-  <url>
-    <loc>/presentation/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
   </url>
   
 </urlset>

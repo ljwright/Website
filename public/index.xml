@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Liam Wright</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>©2019</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>©2019</copyright><lastBuildDate>Mon, 26 Nov 2018 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Liam Wright</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Datasets: What, Where and How</title>
+      <link>/talk/ecf_datasets/</link>
+      <pubDate>Mon, 26 Nov 2018 13:00:00 +0000</pubDate>
+      <guid>/talk/ecf_datasets/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Privacy Policy</title>

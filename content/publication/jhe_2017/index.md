@@ -16,6 +16,7 @@ slides:
 summary: 
 tags:
 - Teen Pregnancy
+- Austerity
 title: The effect of spending cuts on teen pregnancy
 url_code: ""
 url_dataset: ""
