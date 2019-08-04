@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Liam Wright</title>
-    <link>/categories/</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ljwright.netlify.com/categories/</link>
+      <atom:link href="https://ljwright.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>©2019</copyright>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ljwright.netlify.com/img/icon-192.png</url>
       <title>Categories</title>
-      <link>/categories/</link>
+      <link>https://ljwright.netlify.com/categories/</link>
     </image>
     
   </channel>

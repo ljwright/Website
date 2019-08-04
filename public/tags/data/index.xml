@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data | Liam Wright</title>
-    <link>/tags/data/</link>
-      <atom:link href="/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ljwright.netlify.com/tags/data/</link>
+      <atom:link href="https://ljwright.netlify.com/tags/data/index.xml" rel="self" type="application/rss+xml" />
     <description>Data</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>©2019</copyright><lastBuildDate>Mon, 26 Nov 2018 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ljwright.netlify.com/img/icon-192.png</url>
       <title>Data</title>
-      <link>/tags/data/</link>
+      <link>https://ljwright.netlify.com/tags/data/</link>
     </image>
     
     <item>
       <title>Datasets: What, Where and How</title>
-      <link>/talk/ecf_datasets/</link>
+      <link>https://ljwright.netlify.com/talk/ecf_datasets/</link>
       <pubDate>Mon, 26 Nov 2018 13:00:00 +0000</pubDate>
-      <guid>/talk/ecf_datasets/</guid>
+      <guid>https://ljwright.netlify.com/talk/ecf_datasets/</guid>
       <description></description>
     </item>
     

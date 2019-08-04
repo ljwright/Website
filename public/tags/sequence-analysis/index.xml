@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sequence Analysis | Liam Wright</title>
+    <link>https://ljwright.netlify.com/tags/sequence-analysis/</link>
+      <atom:link href="https://ljwright.netlify.com/tags/sequence-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sequence Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>©2019</copyright><lastBuildDate>Thu, 25 Jul 2019 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ljwright.netlify.com/img/icon-192.png</url>
+      <title>Sequence Analysis</title>
+      <link>https://ljwright.netlify.com/tags/sequence-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Hours Progression in the UK</title>
+      <link>https://ljwright.netlify.com/talk/dwp_progression/</link>
+      <pubDate>Thu, 25 Jul 2019 11:00:00 +0000</pubDate>
+      <guid>https://ljwright.netlify.com/talk/dwp_progression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Introduction to Sequence Analysis</title>
+      <link>https://ljwright.netlify.com/talk/dwp_sequence_analysis/</link>
+      <pubDate>Tue, 25 Jun 2019 13:00:00 +0000</pubDate>
+      <guid>https://ljwright.netlify.com/talk/dwp_sequence_analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

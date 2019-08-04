@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teen Pregnancy | Liam Wright</title>
-    <link>/tags/teen-pregnancy/</link>
-      <atom:link href="/tags/teen-pregnancy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ljwright.netlify.com/tags/teen-pregnancy/</link>
+      <atom:link href="https://ljwright.netlify.com/tags/teen-pregnancy/index.xml" rel="self" type="application/rss+xml" />
     <description>Teen Pregnancy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>©2019</copyright><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>©2019</copyright><lastBuildDate>Wed, 25 Jul 2018 17:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ljwright.netlify.com/img/icon-192.png</url>
       <title>Teen Pregnancy</title>
-      <link>/tags/teen-pregnancy/</link>
+      <link>https://ljwright.netlify.com/tags/teen-pregnancy/</link>
     </image>
     
     <item>
+      <title>The Effect of Spending Cuts on Teenage Pregnancy</title>
+      <link>https://ljwright.netlify.com/talk/huddersfield_2018/</link>
+      <pubDate>Wed, 25 Jul 2018 17:00:00 +0000</pubDate>
+      <guid>https://ljwright.netlify.com/talk/huddersfield_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The effect of spending cuts on teen pregnancy</title>
-      <link>/publication/jhe_2017/</link>
+      <link>https://ljwright.netlify.com/publication/jhe_2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/jhe_2017/</guid>
+      <guid>https://ljwright.netlify.com/publication/jhe_2017/</guid>
       <description></description>
     </item>
     
