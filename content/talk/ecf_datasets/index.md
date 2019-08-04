@@ -5,7 +5,7 @@ authors: [IEHC Early Careers Forum]
 date: "2018-11-26T13:00:00Z"
 date_end: "2018-11-26T14:00:00Z"
 event: "Datasets: What, Where and How"
-event_url: https://drive.google.com/open?id=1sk_UUBBr-J2mg6N2OFbIEY0LZ7IJjkyGVTdMtI1GeHQ
+event_url: 
 featured: false
 links:
 - icon: twitter
