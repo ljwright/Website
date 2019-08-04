@@ -1,5 +1,5 @@
 ---
-abstract: "In the presentation, I provide a tutorial on using R Markdown to create reproducible, dynamic documents in R. I also discuss using APIs and web scraping to download data from the internet directly into R, with a focus on the ONS API. Code to produce the slides and an accompanying document are available in the links and from [here](files/dwp_rmarkdown_report.zip)."
+abstract: "In the presentation, I provide a tutorial on using R Markdown to create reproducible, dynamic documents in R. I also discuss using APIs and web scraping to download data from the internet directly into R, with a focus on the ONS API. Code to produce the slides and an accompanying document are available in the links and from [here](././files/dwp_rmarkdown_report.zip)."
 all_day: false
 authors: 
 - admin
@@ -20,7 +20,7 @@ tags:
 - APIs
 title: "Writing Documents Programatically in R"
 url_code: "files/dwp_rmarkdown_presentation.zip"
-url_pdf: "files/dwp_rmarkdown_presentation.pdf"
+url_pdf: "files/dwp_rmarkdown_report.pdf"
 url_slides: "files/dwp_rmarkdown_presentation.pdf"
 url_video: ""
 ---
