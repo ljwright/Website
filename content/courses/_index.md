@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-layout: docs
+view: 2
 title: Teaching
 ---
 
