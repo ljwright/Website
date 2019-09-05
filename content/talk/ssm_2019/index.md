@@ -11,7 +11,7 @@ featured: false
 location: University College Cork, Ireland
 math: true
 projects:
-publishDate: "2019-09-04T12:00:00Z"
+publishDate: "2018-06-20T11:00:00Z"
 slides: 
 summary: Talk I gave at the SSM Conference in Cork, September 2019.
 tags: 

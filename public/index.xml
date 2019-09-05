@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Liam Wright</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>©2019</copyright><lastBuildDate>Thu, 25 Jul 2019 11:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>©2019</copyright><lastBuildDate>Wed, 04 Sep 2019 14:35:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Liam Wright</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>What Moderates the Scarring Effect of Youth Worklessness?</title>
+      <link>/talk/ssm_2019/</link>
+      <pubDate>Wed, 04 Sep 2019 14:35:00 +0000</pubDate>
+      <guid>/talk/ssm_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hours Progression in the UK</title>
@@ -58,6 +66,24 @@
       <pubDate>Wed, 25 Jul 2018 17:00:00 +0000</pubDate>
       <guid>/talk/huddersfield_2018/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
     <item>
