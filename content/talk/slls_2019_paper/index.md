@@ -18,8 +18,8 @@ tags:
 - Youth Unemployment
 - Scarring
 title: "What Moderates the Scarring Effect of Youth Worklessness?"
-url_code: "files/ssm_2019.zip"
+url_code: "files/slls_2019_paper.zip"
 url_pdf: ""
-url_slides: "files/ssm_2019.html"
+url_slides: "files/slls_2019_paper.html"
 url_video: ""
 ---
