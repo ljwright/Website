@@ -4,47 +4,57 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-09-04T14:35:00+00:00</lastmod>
+    <lastmod>2019-09-26T12:30:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-09-04T14:35:00+00:00</lastmod>
+    <lastmod>2019-09-26T12:30:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-09-04T14:35:00+00:00</lastmod>
+    <lastmod>2019-09-26T12:30:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/talk/</loc>
-    <lastmod>2019-09-04T14:35:00+00:00</lastmod>
+    <lastmod>2019-09-26T12:30:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/scarring/</loc>
-    <lastmod>2019-09-04T14:35:00+00:00</lastmod>
+    <lastmod>2019-09-26T12:30:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-09-04T14:35:00+00:00</lastmod>
+    <lastmod>2019-09-26T12:30:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/slls_2019_paper/</loc>
+    <lastmod>2019-09-26T12:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/youth-unemployment/</loc>
+    <lastmod>2019-09-26T12:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/slls_2019_poster/</loc>
+    <lastmod>2019-09-25T18:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/ssm_2019/</loc>
     <lastmod>2019-09-04T14:35:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/youth-unemployment/</loc>
-    <lastmod>2019-09-04T14:35:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -135,16 +145,6 @@
   <url>
     <loc>/talk/huddersfield_2018/</loc>
     <lastmod>2018-07-25T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
