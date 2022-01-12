@@ -21,7 +21,7 @@ googleAnalytics = ""
 ############################
 ## Advanced options below ##
 ############################
-
+# Note, I have Hugo Version 0.56.3
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
 
